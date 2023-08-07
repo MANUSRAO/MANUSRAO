@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manu</h1>
-<h3 align="center">I’m interested in Web Development, ML and Blockchain</h3>
+<h3 align="center">I’m interested in Web Development</h3>
 
 <p align="left"> <a href="https://twitter.com/manusrao25" target="blank"><img src="https://img.shields.io/twitter/follow/manusrao25?logo=twitter&style=for-the-badge" alt="manusrao25" /></a> </p>
 
-- 🔭 I’m currently working on **Chrome Extensions**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me anything about **Chrome Development, Python.**
+- 💬 Ask me anything about **Java, Django, Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
